@@ -46,13 +46,7 @@ export default function Navbar() {
             >
               Thom Bali Surf School
             </div>
-            <div
-              className={`text-[10px] md:text-xs tracking-wide ${
-                scrolled ? "text-gray-600" : "text-green-200"
-              }`}
-            >
-              Uluwatu
-            </div>
+           
           </div>
         </div>
 

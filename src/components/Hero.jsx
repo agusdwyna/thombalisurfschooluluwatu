@@ -32,7 +32,7 @@ export default function Hero()
       <div className="relative z-10 text-center px-6 max-w-4xl">
         
         <h1 className="text-white font-extrabold text-6xl md:text-5xl lg:text-6xl mb-4 drop-shadow-lg">
-          Learn to Surf in Uluwatu Like a Pro
+          Learn to Surf in Bali Like a Pro
         </h1>
 
         <p className="text-white/90 text-sm md:text-lg mb-8 max-w-2xl mx-auto leading-relaxed">

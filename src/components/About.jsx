@@ -33,11 +33,20 @@ export default function About() {
             About Thom Bali Surf School
           </h2>
 
-          <p className="text-sm md:text-lg text-gray-600 leading-relaxed">
-            At Thom Bali Surf School, we merge the thrill of the ocean with professional athletic
-            instruction. Located in the heart of Uluwatu's premium coastline, we offer a sanctuary
-            for water enthusiasts. Our approach is rooted in safety, fun, and the pursuit of excellence.
-          </p>
+
+<p className="text-sm md:text-lg text-gray-600 leading-relaxed">
+  At Thom Bali Surf School, we offer surfing lessons for all levels—from complete beginners to advanced surfers. If you’d like, we also provide photo & video services (additional cost) to capture your surfing experience and turn it into a beautiful memory 📸. We usually surf at Balangan Beach, Padang Padang, Jimbaran, Bingin, and most often in Nusa Dua—depending on the best conditions on the day. No need to worry—our experienced instructors will guide you step by step, ensuring you feel safe, confident, and enjoy every moment in the water. Our schedule is flexible and based on tides, waves, and wind conditions, so we always choose the best time for your session.  
+
+  <span className="font-semibold text-gray-800 block mt-2">
+    Our 2-hour surfing lesson includes:
+  </span>
+
+  <span className="block">• 30-minute ground theory covering safety instructions, pop-ups, and standing techniques for beginners</span>
+  <span className="block">• 1.5 hours in the water (and 2 hours for each additional lesson)</span>
+  <span className="block">• Surfboards for all levels, surfwear, zinc/sun protection, and drinking water after the session</span>
+
+  Let me know if you’d like to book a lesson—I’ll be happy to arrange everything for you.
+</p>
 
           {/* FEATURES (UNCHANGED DESKTOP) */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
