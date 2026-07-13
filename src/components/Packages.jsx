@@ -28,7 +28,7 @@ const SINGLE_LESSONS = [
 const THREE_DAY = [
   {
     title:   'Private',
-    price:   'IDR 1.65m',
+    price:   'IDR 1.7m',
     desc:    'Full personal attention for 3 consecutive days. Ideal for rapid improvement.',
     cardBg:  'bg-primary text-on-primary',
     priceCl: 'text-primary-fixed',
@@ -36,7 +36,7 @@ const THREE_DAY = [
   },
   {
     title:   'Semi-Private',
-    price:   'IDR 1.2m',
+    price:   'IDR 1.35m',
     desc:    'The perfect balance of social learning and focused attention for couples or friends.',
     cardBg:  'bg-on-secondary-fixed-variant text-on-primary',
     priceCl: 'text-secondary-fixed',
